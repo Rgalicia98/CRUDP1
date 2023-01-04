@@ -28,7 +28,7 @@ $(document).ready(function(){
 		"bDestroy": true,
 		"responsive": true,
 		"bInfo":true,
-		"iDisplayLength": 10,//Por cada 10 registros hace una paginación
+		"iDisplayLength": 6,//Por cada 6 registros hace una paginación
 	    "order": [[ 0, "asc" ]],//Ordenar (columna,orden)
 	    "language": {
             "sProcessing":     "Procesando...",
